@@ -4,7 +4,7 @@
 
 ### ☕ Backend Developer Junior · Amante de los retos lógicos · Java & PHP enjoyer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A800&center=true&vCenter=true&width=550&lines=Backend+Developer+Junior+%F0%9F%9A%80;Java+%7C+PHP+%7C+MySQL+%7C+PostgreSQL;Si+compila%2C+no+lo+toques+%F0%9F%98%85;Un+bug+a+la+vez%2C+una+victoria+a+la+vez+%F0%9F%8F%86" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A800&center=true&vCenter=true&width=550&lines=Backend+Developer+Junior+🚀;Java+%7C+Kotlin+%7C+PHP;Spring+Boot+%7C+Symfony;Un+bug+a+la+vez%2C+una+victoria+a+la+vez+%F0%9F%8F%86" alt="Typing SVG" />
 
 </div>
 
@@ -18,7 +18,7 @@ public class SrKora {
     String nombre     = "Giovanni Marcano Serrano";
     String rol        = "Backend Developer Junior";
     String ubicacion  = "España 🇪🇸";
-    String[] stack    = {"Java", "PHP", "MySQL", "PostgreSQL"};
+    String[] stack = {"Java", "PHP", "Kotlin", "MySQL", "PostgreSQL", "AWS"};
     String pasion     = "Resolver problemas lógicos que me quitan el sueño 🧠";
     String objetivo   = "Dominar el Backend desde los cimientos 💪";
     String fun_fact   = "Si el código funciona, mejor no preguntar por qué 😄";
