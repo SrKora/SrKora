@@ -39,6 +39,8 @@ public class SrKora {
 ### Lenguajes
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
 ### Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -47,12 +49,13 @@ public class SrKora {
 ### Bases de datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-AE4FFF?style=for-the-badge&logo=phpstorm&logoColor=white)
 
 ### En el radar 🔭
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -85,13 +88,8 @@ public class SrKora {
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| 🔧 Próximamente | Añade aquí tu proyecto | Java / Spring Boot |
-| 🔧 Próximamente | Añade aquí tu proyecto | PHP / Symfony |
-
-> 💡 *Cuando subas proyectos, sustituye las filas así:*
-> ```markdown
-> | [Mi Proyecto](https://github.com/SrKora/mi-proyecto) | Descripción breve | Java |
-> ```
+| 🔧 [API Hogwarts](https://github.com/SrKora/Hogwarts_Spring_Boot) | Api para gestionar "El Colegio Hogwarts de Magia y Hechicería" | Java / Spring Boot |
+| 🔧 [480:PROJECTS](https://github.com/SrKora/480-Projects-EsperoQueLaDefinitiva.git) | API para gestionar el inventariado de proyectos en 480:DEV | PHP / Symfony |
 
 ---
 
@@ -110,10 +108,12 @@ Problema  →  Análisis  →  Lógica  →  Código  →  Test  →  ¿Funciona
 
 <div align="center">
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovanni.marcano.serrano@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/giovanni-marcano)
 [![GitHub](https://img.shields.io/badge/GitHub-SrKora-181717?style=for-the-badge&logo=github)](https://github.com/SrKora)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/448845013527560212)
 
 </div>
-
 ---
 
 <div align="center">
