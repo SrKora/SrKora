@@ -18,7 +18,7 @@ public class SrKora {
     String nombre     = "Giovanni Marcano Serrano";
     String rol        = "Backend Developer Junior";
     String ubicacion  = "España 🇪🇸";
-    String[] stack = {"Java", "PHP", "Kotlin", "MySQL", "PostgreSQL", "AWS"};
+    String[] stack    = {"Java", "PHP", "Kotlin", "MySQL", "PostgreSQL", "AWS"};
     String pasion     = "Resolver problemas lógicos que me quitan el sueño 🧠";
     String objetivo   = "Dominar el Backend desde los cimientos 💪";
     String fun_fact   = "Si el código funciona, mejor no preguntar por qué 😄";
