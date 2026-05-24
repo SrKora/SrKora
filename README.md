@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hey, soy Giovanni — aka **SrKora**
+# 👋 Hola, soy Giovanni — aka **SrKora**
 
-### 🧑‍💻 Backend Developer en construcción · Apasionado del código · Siempre aprendiendo
+### ☕ Backend Developer Junior · Amante de los retos lógicos · Java & PHP enjoyer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%90%8D;Node.js+%7C+Python+%7C+Java;Cada+d%C3%ADa+un+bug+menos...+o+dos+m%C3%A1s+%F0%9F%98%85;Junior+hoy%2C+Senior+ma%C3%B1ana+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A800&center=true&vCenter=true&width=550&lines=Backend+Developer+Junior+%F0%9F%9A%80;Java+%7C+PHP+%7C+MySQL+%7C+PostgreSQL;Si+compila%2C+no+lo+toques+%F0%9F%98%85;Un+bug+a+la+vez%2C+una+victoria+a+la+vez+%F0%9F%8F%86" alt="Typing SVG" />
 
 </div>
 
@@ -12,43 +12,52 @@
 
 ## 🙋‍♂️ Sobre mí
 
-```python
-developer = {
-    "nombre":     "Giovanni Marcano Serrano",
-    "alias":      "SrKora",
-    "ubicacion":  "España 🇪🇸",
-    "rol":        "Backend Developer Junior",
-    "estado":     "Aprendiendo algo nuevo cada día 📚",
-    "fun_fact":   "Debuggeo mejor con café ☕ y música 🎧"
+```java
+public class SrKora {
+
+    String nombre     = "Giovanni Marcano Serrano";
+    String rol        = "Backend Developer Junior";
+    String ubicacion  = "España 🇪🇸";
+    String[] stack    = {"Java", "PHP", "MySQL", "PostgreSQL"};
+    String pasion     = "Resolver problemas lógicos que me quitan el sueño 🧠";
+    String objetivo   = "Dominar el Backend desde los cimientos 💪";
+    String fun_fact   = "Si el código funciona, mejor no preguntar por qué 😄";
+
 }
 ```
 
-- 🌱 Actualmente aprendiendo **Node.js, Python y las bases del Backend**
-- 🔧 Me gusta entender **cómo funcionan las cosas por dentro**
-- 💬 Pregúntame sobre **servidores, APIs o por qué mi código no funciona** 😄
-- 🎯 Meta 2025: **lanzar mi primer proyecto propio en producción**
-- ⚡ Dato curioso: empecé desde cero y cada commit es una victoria
+- 🔍 Me engancha **enfrentarme a un problema y no parar hasta resolverlo**
+- 🌱 Profundizando en **Java, PHP, MySQL y PostgreSQL** cada día
+- 🏗️ He construido desde apps de consola hasta webs con CRUD completo
+- 🎯 Meta: **dominar el backend de verdad**, no solo hacer que funcione
+- ⚡ Filosofía: *un bug resuelto hoy es una lección aprendida para siempre*
 
 ---
 
 ## 🛠️ Mi stack tecnológico
 
 ### Lenguajes
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Backend & Entorno
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+### Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+
+### Bases de datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### Aprendiendo ahora 🌱
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+### En el radar 🔭
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
 ---
 
@@ -56,28 +65,44 @@ developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrKora&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-bice-three-86.vercel.app/api?username=SrKora&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrKora&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-bice-three-86.vercel.app/api/top-langs/?username=SrKora&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=SrKora&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SrKora&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Proyectos
 
-> 🔨 Estoy trabajando en mis primeros proyectos. ¡Pronto habrá cosas aquí!
+> Aquí es donde pasan las cosas 👇 Pequeños proyectos, grandes aprendizajes.
 
-| Proyecto | Descripción | Estado |
-|----------|-------------|--------|
-| 🔧 En construcción... | Mi primer API REST | 🟡 WIP |
-| 💡 Próximamente | Proyecto personal Backend | 🔜 Planeando |
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| 🔧 Próximamente | Añade aquí tu proyecto | Java / Spring Boot |
+| 🔧 Próximamente | Añade aquí tu proyecto | PHP / Symfony |
+
+> 💡 *Cuando subas proyectos, sustituye las filas así:*
+> ```markdown
+> | [Mi Proyecto](https://github.com/SrKora/mi-proyecto) | Descripción breve | Java |
+> ```
+
+---
+
+## 🧠 Mi forma de pensar el código
+
+```
+Problema  →  Análisis  →  Lógica  →  Código  →  Test  →  ¿Funciona?
+                                                              │
+                                                    Sí ──────┘
+                                                    No → volver al análisis 😄
+```
 
 ---
 
@@ -93,14 +118,10 @@ developer = {
 
 <div align="center">
 
-### 💭 Frase que me representa
-
-*"El mejor código que he escrito es el que aún no he roto"* 😄
+*"No escribo código perfecto. Escribo código que aprende conmigo."* 🧠
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=SrKora&color=00b4d8&style=for-the-badge&label=Visitas+al+perfil)
-
-⭐ **Si algo de lo que hago te resulta útil, un star siempre se agradece** ⭐
+![Visitor Count](https://komarev.com/ghpvc/?username=SrKora&color=F7A800&style=for-the-badge&label=Visitas+al+perfil)
 
 </div>
