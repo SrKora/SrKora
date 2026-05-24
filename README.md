@@ -31,6 +31,8 @@ public class SrKora {
 - 🏗️ He construido desde apps de consola hasta webs con CRUD completo
 - 🎯 Meta: **dominar el backend de verdad**, no solo hacer que funcione
 - ⚡ Filosofía: *un bug resuelto hoy es una lección aprendida para siempre*
+- 📱 Explorando el desarrollo **Android con Kotlin y Jetpack Compose**
+- 🌐 Idiomas: **Español** nativo · **Inglés** básico/medio
 
 ---
 
@@ -53,9 +55,10 @@ public class SrKora {
 ### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-AE4FFF?style=for-the-badge&logo=phpstorm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### En el radar 🔭
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -77,6 +80,12 @@ public class SrKora {
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SrKora&theme=radical&hide_border=true)
+
+</div>
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=SrKora&theme=radical&no-frame=true&row=1)](https://github.com/SrKora)
 
 </div>
 
@@ -109,18 +118,19 @@ Problema  →  Análisis  →  Lógica  →  Código  →  Test  →  ¿Funciona
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovanni.marcano.serrano@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/giovanni-marcano)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-marcano)
 [![GitHub](https://img.shields.io/badge/GitHub-SrKora-181717?style=for-the-badge&logo=github)](https://github.com/SrKora)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/448845013527560212)
 
 </div>
+
 ---
 
 <div align="center">
 
 *"No escribo código perfecto. Escribo código que aprende conmigo."* 🧠
 
----
+<br/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=SrKora&color=F7A800&style=for-the-badge&label=Visitas+al+perfil)
 
