@@ -83,12 +83,6 @@ public class SrKora {
 
 </div>
 
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=SrKora&theme=radical&no-frame=true&row=1)](https://github.com/SrKora)
-
-</div>
-
 ---
 
 ## 🚀 Proyectos
