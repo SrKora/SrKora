@@ -73,7 +73,7 @@ public class SrKora {
 
 <img height="180em" src="https://github-readme-stats-bice-three-86.vercel.app/api?username=SrKora&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats-bice-three-86.vercel.app/api/top-langs/username=SrKora&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats-bice-three-86.vercel.app/api/top-langs/?username=SrKora&layout=donut&theme=radical&hide_border=true"/>
 
 </div>
 
